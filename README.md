@@ -74,3 +74,14 @@ function clearAll() {
 
 
 ```
+
+# Experience
+I have been experiencing teaching HTML5 and CSS3 for over 6 months, and have been experiencing for almost a year. Here is my course I have used: [Freecodecamp](https://www.freecodecamp.org/agent_oo7).
+
+# Education
+## Bachelor
+Westminster International University in Tashkent(WIUT)
+*Business Information Systems*
+## College
+Andizhan Computer Technology College.
+*Information Technology, Software engineering technician*
