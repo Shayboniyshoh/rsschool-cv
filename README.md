@@ -8,5 +8,7 @@
 
 # Contact Info
 * Contact Number - (998) 90 142 18 02
-* Contact Email = shayboniyshohabduvaliev@gmail.com
+* Contact Email - shayboniyshohabduvaliev@gmail.com
+* Telegram Account - @shayboniyshoh 
+* My GitHub Account - [Click Here to see my profile!](https://github.com/Shayboniyshoh)
 
