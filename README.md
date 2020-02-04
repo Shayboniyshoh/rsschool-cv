@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[Link to my GitHub Profile!](https://github.com/Shayboniyshoh/rsschool-cv)
+[Link to my CV!](https://shayboniyshoh.github.io/rsschool-cv/cv)
