@@ -1,3 +1,12 @@
 # rsschool-cv
 
-[Link to my GitHub Profile!](https://github.com/Shayboniyshoh/rsschool-cv)
+# CV for RSSchool
+
+# Shayboniy Abduvaliev
+### Male, 20 years old, born on 18 December 1999
+## Junior Front-End Developer
+
+# Contact Info
+* Contact Number - (998) 90 142 18 02
+* Contact Email = shayboniyshohabduvaliev@gmail.com
+
